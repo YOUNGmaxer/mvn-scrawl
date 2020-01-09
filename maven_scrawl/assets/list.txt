@@ -1,0 +1,96 @@
+Testing Frameworks
+Logging Frameworks
+Java Specifications
+JSON Libraries
+Core Utilities
+Mocking
+Web Assets
+Logging Bridges
+Dependency Injection
+HTTP Clients
+I/O Utilities
+XML Processing
+OSGI Utilities
+Web Frameworks
+Reflection Libraries
+Build Models
+Bytecode Libraries
+Embedded SQL Databases
+Collections
+Assertion Libraries
+Aspect Oriented
+Date and Time Utilities
+Base64 Libraries
+Validation Frameworks
+Code Analyzers
+Object/Relational Mapping
+Expression Languages
+Command Line Parsers
+Transaction APIs/Managers
+Code Coverage Tools
+Configuration Libraries
+Build Tools
+Template Engines
+Web Servers
+Object Serialization
+Web Applications
+Language Runtime
+JDBC Pools
+MySQL Drivers
+JPA Implementations
+Message Queue Clients
+Cache Implementations
+Eclipse Runtime
+Mail Clients
+Compression Libraries
+YAML Parsers
+Encryption Libraries
+Concurrency Libraries
+REST Framework
+NetBeans Modules
+HTML Parsers
+Math Libraries
+JDBC Extensions
+Defect Detection Metadata
+PostgreSQL Drivers
+Network App Frameworks
+Application Metrics
+Maven Plugins
+Distributed Coordination
+CSV Libraries
+Security Frameworks
+Eclipse Plugins
+Cloud Computing
+Object Pools
+Web Testing
+MongoDB Clients
+Distributed Computing
+Message Brokers
+Enterprise Integration
+Actor Frameworks
+Redis Clients
+Web Upload Managers
+String Utilities
+JSP Tag Libraries
+MIME Types Libraries
+Parser Generators
+Distributed Communication
+Stream Processing
+Markdown Processors
+Functional Programming
+Excel Libraries
+Job Scheduling
+SSH Libraries
+Hadoop Query Engines
+Console Utilities
+FTP Clients and Servers
+Native Access Tools
+Full-Text Indexing Libraries
+Git Tools
+OAuth Libraries
+Annotation Processing Tools
+Microbenchmarks
+OSGI Containers
+XPath Libraries
+
+
